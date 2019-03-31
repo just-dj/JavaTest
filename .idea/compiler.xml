@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JavaTest" />
+        <module name="OutOfMemoryTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JavaTest" target="1.5" />
+      <module name="OutOfMemoryTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
