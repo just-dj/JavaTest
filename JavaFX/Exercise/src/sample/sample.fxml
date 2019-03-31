@@ -1,0 +1,33 @@
+<?import javafx.scene.layout.BorderPane?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.HBox?>
+<BorderPane
+		xmlns:fx="http://javafx.com/fxml"
+		prefWidth="400"
+		prefHeight="400">
+	
+	<top>
+		<HBox fx:id="hbox" alignment="CENTER" prefHeight="80" spacing="30">
+			<Label text="Choose Selection Mode: " alignment="CENTER"></Label>
+			<ComboBox fx:id="mode"></ComboBox>
+		</HBox>
+	</top>
+	
+	<center>
+		<ListView fx:id="choice"></ListView>
+	</center>
+	
+	<bottom>
+		<HBox fx:id="hbox" alignment="CENTER_LEFT" prefHeight="80">
+			<Label fx:id="result" text="Selected Item are : "></Label>
+		</HBox>
+	</bottom>
+
+	<stylesheets>
+		<URL value="@./css/exercise.css"> </URL>
+	</stylesheets>
+</BorderPane>

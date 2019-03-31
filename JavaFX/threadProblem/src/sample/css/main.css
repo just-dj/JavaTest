@@ -1,0 +1,36 @@
+*{
+	-fx-font-family: "微软雅黑 Light";
+}
+
+#gridPane{
+	-fx-padding: 20 20 20 20;
+}
+
+.label{
+	-fx-alignment: center;
+	-fx-text-alignment: center;
+	-fx-font-size: 30px;
+}
+
+.button{
+	-fx-pref-width: 160;
+	-fx-pref-height: 45;
+	-fx-border-color: black;
+}
+
+.button:focused{
+	-fx-text-fill: #ffffff;
+	-fx-background-color: #aaaaaa;
+}
+
+.text-field{
+	-fx-pref-width: 160;
+	-fx-pref-height: 45;
+	-fx-border-color: black;
+	-fx-text-fill: black;
+}
+
+.text-field:focused{
+	-fx-background-color: #eeeeee;
+	-fx-font-size: 20;
+}

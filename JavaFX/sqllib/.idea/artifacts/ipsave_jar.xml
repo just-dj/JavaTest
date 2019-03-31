@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ipsave:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ipsave_jar</output-path>
+    <root id="archive" name="ipsave.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ipsave" />
+      <element id="extracted-dir" path="G:/mysql-connector-java-5.1.44-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

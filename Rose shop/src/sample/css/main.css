@@ -1,0 +1,29 @@
+*{
+	-fx-font-family: "微软雅黑";
+	-fx-font-size: 20;
+}
+
+#contain{
+	-fx-background-color: #ffffff;
+}
+.text-field{
+	-fx-min-width: 150;
+	-fx-pref-width: 150;
+	-fx-border-width: 1;
+	-fx-border-color: black;
+}
+.text-field:focused{
+	-fx-background-color: #eeeeee;
+}
+.fontAjust{
+	-fx-font-weight: bold;
+}
+.button{
+	-fx-min-width: 60;
+}
+.button:focused{
+	-fx-background-color: #aaaaaa;
+	-fx-text-fill: #ffffff;
+}
+
+.thumb

@@ -1,0 +1,59 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.layout.HBox?>
+<?import java.net.URL?>
+<?import javafx.scene.layout.VBox?>
+<GridPane fx:controller="sample.Controller"
+		  xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10"
+		  minWidth="850" minHeight="465" fx:id="contain" >
+	<Label styleClass="fontAjust" text="商品类型" GridPane.columnIndex="0" GridPane.rowIndex="0"></Label>
+	<Label styleClass="fontAjust" text="商品单价" GridPane.columnIndex="1" GridPane.rowIndex="0"></Label>
+	<VBox alignment="CENTER" GridPane.columnIndex="2" GridPane.rowIndex="0">
+		<Label styleClass="fontAjust" text="数量" ></Label>
+	</VBox>
+	<VBox alignment="CENTER" GridPane.columnIndex="3" GridPane.rowIndex="0">
+		<Label styleClass="fontAjust" text="小计" ></Label>
+	</VBox>
+	
+	
+	<CheckBox fx:id="check0" selected="false" text="11朵玫瑰"  GridPane.rowIndex="1" GridPane.columnIndex="0"></CheckBox>
+	<Label fx:id="value0" text="108" GridPane.rowIndex="1" GridPane.columnIndex="1"></Label>
+	<TextField fx:id="numberEdit0"  GridPane.rowIndex="1" GridPane.columnIndex="2"></TextField>
+	<TextField fx:id="result0" editable="false"  GridPane.rowIndex="1"
+			   GridPane.columnIndex="3"></TextField>
+	
+	<CheckBox fx:id="check1" selected="false" text="精美包装盒"  GridPane.rowIndex="2" GridPane.columnIndex="0"></CheckBox>
+	<Label fx:id="value1" text="28" GridPane.rowIndex="2" GridPane.columnIndex="1"></Label>
+	<TextField fx:id="numberEdit1"  GridPane.rowIndex="2" GridPane.columnIndex="2"></TextField>
+	<TextField fx:id="result1" editable="false"  GridPane.rowIndex="2"
+			   GridPane.columnIndex="3"></TextField>
+	
+	<CheckBox fx:id="check2" selected="false" text="贺卡"  GridPane.rowIndex="3" GridPane.columnIndex="0"></CheckBox>
+	<Label fx:id="value2" text="8" GridPane.rowIndex="3" GridPane.columnIndex="1"></Label>
+	<TextField fx:id="numberEdit2"  GridPane.rowIndex="3" GridPane.columnIndex="2"></TextField>
+	<TextField fx:id="result2" editable="false"  GridPane.rowIndex="3"
+			   GridPane.columnIndex="3"></TextField>
+	
+	
+	<VBox alignment="CENTER" GridPane.rowIndex="4" GridPane.columnIndex="3">
+		<Label text="总计" ></Label>
+	</VBox>
+	
+	
+	<TextField fx:id="all" editable="false"  GridPane.rowIndex="5" GridPane.columnIndex="3"></TextField>
+	
+	<HBox alignment="CENTER" GridPane.rowIndex="6" spacing="80" GridPane.columnIndex="1" GridPane.columnSpan="2">
+		<Button fx:id="count" text="计算"></Button>
+		<Button fx:id="clear" text="重置"></Button>
+	</HBox>
+	
+	<stylesheets>
+		<URL value="@./css/main.css"></URL>
+	</stylesheets>
+	
+</GridPane>

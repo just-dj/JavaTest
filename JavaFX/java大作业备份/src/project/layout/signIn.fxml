@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.control.PasswordField?>
+<BorderPane opacity="0.95" styleClass="canvas" xmlns="http://javafx.com/javafx/8.0.91"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.controller.Controller">
+
+    <top>
+        <HBox alignment="CENTER" styleClass="top_contain">
+            <Label fx:id="label_title" styleClass="label_title" text="数据库管理系统">
+            </Label>
+        </HBox>
+    </top>
+
+    <center>
+        <VBox fx:id="center_contain" styleClass="center_contain" spacing="20" >
+           <HBox alignment="center" spacing="30">
+               <Label styleClass="label_start" text="站点:"></Label>
+               <TextField fx:id="site" styleClass="textfield" text="localhost"/>
+           </HBox>
+
+            <HBox alignment="center" spacing="30">
+                <Label styleClass="label_start" text="端口:"></Label>
+                <TextField fx:id="port" styleClass="textfield" text="3306"/>
+            </HBox>
+
+            <HBox alignment="center" spacing="30">
+                <Label styleClass="label_start" text="用户名:"></Label>
+                <TextField fx:id="userName" styleClass="textfield" text="root"/>
+            </HBox>
+
+            <HBox alignment="center" spacing="30">
+                <Label styleClass="label_start" text="密码:"></Label>
+                <PasswordField fx:id="passWord" styleClass="textfield" text="521947" />
+            </HBox>
+
+            <HBox alignment="center" spacing="30">
+                <ImageView fx:id="image" scaleX="0.5" scaleY="0.5" translateX="-80" visible="true">
+                    <image >
+                        <Image url="@../image/1.gif"/>
+                    </image>
+                </ImageView>
+                <Label fx:id="signIn" styleClass="signIn" alignment="CENTER" text="Sign in"
+                      translateX="-100" ></Label>
+            </HBox>
+        </VBox>
+    </center>
+
+    <stylesheets>
+        <URL value="@../css/signIn.css" />
+    </stylesheets>
+</BorderPane>

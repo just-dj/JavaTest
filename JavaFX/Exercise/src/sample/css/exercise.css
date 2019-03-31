@@ -1,0 +1,29 @@
+*{
+	-fx-text-fill:darkblue;
+}
+
+#hbox{
+	-fx-background-color: #ffffff;
+}
+
+.list-cell:hover{
+	-fx-background-color: #ccc;
+	-fx-text-fill: #ffffff;
+}
+.list-cell:selected{
+	-fx-background-color: #1E56A0;
+	-fx-text-fill: #ffffff;
+}
+/*空白行颜色设置为白色*/
+.list-cell:empty {
+	-fx-background-color: #ffffff;
+	-fx-border-width: 0px;
+}
+
+.label{
+	-fx-font-size: 20;
+}
+
+#result{
+	-fx-padding: 0 0 0 10;
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aspectjrt-1.7.3">
+    <CLASSES>
+      <root url="jar://G:/很重要的知识点/spring jar/aspectj/aspectjrt-1.7.3.jar!/" />
+      <root url="jar://G:/很重要的知识点/spring jar/aspectj/aspectjtools-1.7.3.jar!/" />
+      <root url="jar://G:/很重要的知识点/spring jar/aspectj/aspectjweaver-1.7.3.jar!/" />
+      <root url="jar://G:/很重要的知识点/spring jar/aspectj/org.aspectj.matcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,53 @@
+
+.root{
+	-fx-background-color: #ffffff;
+}
+
+#title{
+	-fx-alignment: center;
+	-fx-font-size: 30px;
+	-fx-text-fill: lightslategray;
+	-fx-font-weight: bold;
+}
+
+.button{
+	-fx-min-width: 100;
+	-fx-text-fill:lightslategrey ;
+}
+
+.button:focused{
+	-fx-background-color: lightslategrey;
+	-fx-text-fill: #ffffff;
+}
+
+#leftContain{
+	-fx-padding: 0 0 0 20;
+	-fx-max-height: 316;
+}
+
+#left_Lable{
+	-fx-background-color: lightslategray;
+}
+
+#left_Lable .label{
+	-fx-font-weight: bold;
+}
+
+#left_bottom{
+	-fx-border-color: lightslategray;
+	-fx-padding: 5 5 5 5;
+}
+
+#centerContain{
+	-fx-max-height: 316;
+}
+
+#rightContainer{
+	-fx-padding: 0 20 0 0;
+	-fx-max-height: 316;
+}
+
+#rightContainer1{
+	-fx-border-color: lightslategrey;
+	-fx-border-width: 3;
+}

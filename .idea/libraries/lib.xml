@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/spring-expression-3.2.0.RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/spring-beans-3.2.0.RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/spring-context-support-3.2.0.RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/entity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/spring-core-3.2.0.RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/java消消乐/lib/spring-context-3.2.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

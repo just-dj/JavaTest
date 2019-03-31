@@ -1,0 +1,64 @@
+#contain{
+	-fx-min-width: 800px;
+	-fx-min-height: 400px;
+}
+
+#top{
+	-fx-padding: 15 0 15 15;
+	-fx-background-color: #ffffff;
+}
+
+#table{
+	-fx-background-color: #ffffff;
+}
+#table:focused{
+	-fx-border-width: 0;
+	-fx-background-color: #ffffff;
+}
+
+#center{
+	-fx-background-color: #ffffff;
+	-fx-padding: 15 15 15 15;
+}
+.list-cell{
+	-fx-background-color: #ffffff;
+	-fx-border-color: #aaaaaa;
+	-fx-text-fill: black;
+	-fx-min-width: 200px;
+}
+
+.list-cell:hover{
+	-fx-background-color: #aaaaaa;
+	-fx-border-color: #aaaaaa;
+	-fx-text-fill: #ffffff;
+}
+.combo-box{
+	-fx-border-color: #aaaaaa;
+}
+
+.combo-box:focused{
+	-fx-border-color: #aaaaaa;
+}
+
+.table-row-cell:selected{
+	-fx-text-fill: #fff;
+	-fx-border-width: 0px;
+	-fx-background-color: #aaaaaa;
+}
+.table-row-cell:hover{
+	-fx-background-color: #ccc;
+}
+.table-row-cell:empty .table-cell {
+	-fx-background-color: #ffffff;
+	-fx-border-width: 0px;
+}
+
+.button:focused{
+	-fx-background-color: #aaaaaa;
+	-fx-text-fill: #ffffff;
+}
+
+#button{
+	-fx-pref-width: 130px;
+	-fx-pref-height: 32px;
+}

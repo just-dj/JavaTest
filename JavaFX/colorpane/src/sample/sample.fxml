@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+<BorderPane prefHeight="500" prefWidth="850" xmlns="http://javafx.com/javafx/8.0.121"
+			xmlns:fx="http://javafx.com/fxml/1">
+	
+	<top>
+		<HBox fx:id="topContain" alignment="CENTER" prefHeight="80">
+			<Label fx:id="title" text="请在这里调色" />
+		</HBox>
+	</top>
+	
+	<left>
+		<VBox fx:id="leftContain" alignment="CENTER" prefHeight="316" prefWidth="220" spacing="10">
+			<HBox fx:id="left_Lable" alignment="CENTER" prefHeight="30">
+				<Label text="你的选择" textFill="white" />
+			</HBox>
+
+			<HBox fx:id="left_bottom" alignment="CENTER" spacing="6">
+				<VBox spacing="6">
+					<Rectangle fx:id="rectangle0" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle2" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle4" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle6" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle8" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle10" fill="#fff" height="40" stroke="lightslategray" width="92" />
+				</VBox>
+				<VBox spacing="6">
+					<Rectangle fx:id="rectangle1" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle3" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle5" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle7" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle9" fill="#fff" height="40" stroke="lightslategray" width="92" />
+					<Rectangle fx:id="rectangle11" fill="#fff" height="40" stroke="lightslategray" width="92" />
+				</VBox>
+			</HBox>
+		</VBox>
+		
+	</left>
+	
+	<center>
+		<HBox fx:id="centerContain" alignment="CENTER" maxWidth="316.0" prefHeight="316" prefWidth="316">
+			<Rectangle fx:id="centerRec" fill="#fff" height="316.0" stroke="lightslategray" width="316" />
+		</HBox>
+	</center>
+	
+	<right>
+		<HBox fx:id="rightContainer" alignment="CENTER" prefHeight="316" prefWidth="220">
+			<HBox fx:id="rightContainer1" alignment="CENTER" spacing="25">
+				<Slider fx:id="sliderR" />
+				
+				<Slider fx:id="sliderG" />
+				
+				<Slider fx:id="sliderB" />
+			</HBox>
+		</HBox>
+	</right>
+	
+	<bottom>
+		<HBox  alignment="CENTER" prefHeight="100" spacing="20">
+			<Button fx:id="save" text="就选它了" />
+			<Button fx:id="clear" text="重置" />
+		</HBox>
+	</bottom>
+	
+	<stylesheets>
+		<URL value="@./css/colorPane.css" />
+	</stylesheets>
+</BorderPane>

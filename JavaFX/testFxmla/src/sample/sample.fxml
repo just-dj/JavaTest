@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+
+<BorderPane fx:id="canvas" opacity="0.95" xmlns="http://javafx.com/javafx/8.0.91" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="sample.Controller">
+
+    <top>
+        <HBox fx:id="top_contain" GridPane.columnIndex="0" GridPane.rowIndex="0">
+            <Label fx:id="label1" onMouseClicked="#test1" styleClass="label1" text="账号">
+            </Label>
+
+            <Label onMouseClicked="#test2" styleClass="label2" text="好友">
+            </Label>
+
+            <Label onMouseClicked="#test3" styleClass="label3" text="大厅">
+            </Label>
+
+            <Label onMouseClicked="#test4" styleClass="label4" text="地图">
+            </Label>
+
+            <Label styleClass="label5" text="位置">
+            </Label>
+        </HBox>
+    </top>
+
+    <center >
+        <HBox fx:id="body" alignment="CENTER">
+            <Label fx:id="test1" text="test1" />
+            <Label fx:id="test2" text="test2" />
+            <Label fx:id="test3" text="test3" />
+        </HBox>
+    </center>
+
+    <bottom>
+        <HBox alignment="CENTER">
+            <ListView fx:id="listView" styleClass="listView" onMouseClicked="#change" editable="true" >
+
+            </ListView>
+        </HBox>
+
+    </bottom>
+
+    <stylesheets>
+        <URL value="@test.css" />
+    </stylesheets>
+</BorderPane>

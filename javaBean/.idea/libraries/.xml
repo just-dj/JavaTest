@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="很重要的知识点">
+    <CLASSES>
+      <root url="jar://G:/很重要的知识点/spring jar/Junit/hamcrest-core-1.3.jar!/" />
+      <root url="jar://G:/很重要的知识点/spring jar/Junit/junit-4.12.jar!/" />
+      <root url="file://G:/很重要的知识点" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://G:/很重要的知识点" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,82 @@
+
+
+#canvas{
+	-fx-min-width: 1366px;
+	-fx-min-height: 768px;
+	-fx-background-color: #fff;
+}
+
+#top_contain{
+	-fx-padding: 10px;
+	-fx-font-family: "微软雅黑";
+	-fx-font-size: 30px;
+	-fx-alignment: center;
+	-fx-spacing: 20px;
+}
+
+#top_contain .label{
+	-fx-border-width: 1px;
+	-fx-border-style: solid;
+	-fx-border-color: #aaa;
+	-fx-border-radius: 20px;
+	-fx-padding: 2 15 2 15;
+	-fx-fill: #aaa;
+}
+
+ .label:hover{
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration: 1s;
+	-o-animation-duration: 1s;
+	animation-duration: 1s;
+	-fx-border-color: rebeccapurple;
+	-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 1 , 1 );
+}
+
+/*.label:pressed{*/
+
+	/*-webkit-animation-duration: 1s;*/
+	/*-moz-animation-duration: 1s;*/
+	/*-o-animation-duration: 1s;*/
+	/*animation-duration: 1s;*/
+	/*-fx-border-color: rebeccapurple;*/
+	/*-fx-effect: dropshadow( three-pass-box , red , 5, 0.0 , 0 , 1 );*/
+/*}*/
+
+
+#body{
+	-fx-min-width: 200px;
+	-fx-min-height: 200px;
+	-fx-background-color: #eee;
+	-fx-spacing: 10px;
+}
+#test1,#test2,#test3{
+	-fx-min-width: 200px;
+	-fx-min-height: 200px;
+	-fx-text-fill: black;
+	-fx-border-width: 1px;
+	-fx-border-color: #aaa;
+	-fx-border-style: solid;
+	-fx-alignment: center;
+}
+#test1:hover,#test2:hover,#test3:hover{
+	/*-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 1 , 1 );*/
+}
+#test1{
+	z-index: -10;
+	-fx-pref-width: 300px;
+	-fx-background-color: #ccc;
+}
+#test2{
+	-fx-background-color: #ccc;
+}
+#test3{
+	-fx-background-color: #ccc;
+}
+
+.listView{
+	-fx-min-width: 600px;
+	-fx-min-height: 400px;
+	-fx-max-width: 600px;
+	-fx-max-height: 500px;
+	-fx-border-color: white;
+}

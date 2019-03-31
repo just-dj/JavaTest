@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-dbcp2-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-pool2-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFX/Java期末大作业/lib/commons-collections4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ipsave">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaFX/ipsave/out/artifacts/ipsave_jar/ipsave.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

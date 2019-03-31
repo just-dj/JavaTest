@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JunitTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JunitTest/out/artifacts/JunitTest_jar/JunitTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
