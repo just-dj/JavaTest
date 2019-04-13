@@ -31,6 +31,11 @@ public class Test {
 		System.out.println(Math.round(-2.5));
 		
 		
+		String str3 = new String("abcd");
+		
+		String str4 = new String("abcd");
+		System.out.println(str3 == str4);
+		
 	}
 	
 }
