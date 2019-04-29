@@ -1,8 +1,8 @@
 /*
   Created by IntelliJ IDEA.
   User: shan
-  Date: 19.4.8
-  Time: 21:20
+  Date: 19.4.29
+  Time: 18:22
   Info:
 */
 
@@ -11,13 +11,13 @@
  *
  * @author justdj
  * @email top90982@gmail.com
- * Date: 19.4.8
- * Time: 21:20
+ * Date: 19.4.29
+ * Time: 18:22
  */
-public class Test {
+public class StringTest {
 	
 	public static void main (String[] args){
-
+		
 		Integer a = 127;
 		Integer b = 127;
 		System.out.println(a == b);
@@ -32,7 +32,6 @@ public class Test {
 		
 		
 		String str3 = new String("abcd");
-		
 		String str4 = new String("abcd");
 		System.out.println(str3 == str4);
 		

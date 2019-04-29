@@ -53,7 +53,7 @@
 	</HBox>
 	
 	<stylesheets>
-		<URL value="@./css/main.css"></URL>
+		<URL value="@css/main.css"></URL>
 	</stylesheets>
 	
 </GridPane>
