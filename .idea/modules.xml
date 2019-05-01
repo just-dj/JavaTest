@@ -34,7 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaFX/TestMenu/TestMenu.iml" filepath="$PROJECT_DIR$/JavaFX/TestMenu/TestMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ThreadLocalTest/ThreadLocalTest.iml" filepath="$PROJECT_DIR$/Thread/ThreadLocalTest/ThreadLocalTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ThreadMethodtest/ThreadMethodtest.iml" filepath="$PROJECT_DIR$/Thread/ThreadMethodtest/ThreadMethodtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Thread/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/ThreadPoolSpeedTest/ThreadPoolSpeedTest.iml" filepath="$PROJECT_DIR$/thread/ThreadPoolSpeedTest/ThreadPoolSpeedTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/ThreadPoolTest/ThreadPoolTest.iml" filepath="$PROJECT_DIR$/Thread/ThreadPoolTest/ThreadPoolTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/colorpane/colorpane.iml" filepath="$PROJECT_DIR$/JavaFX/colorpane/colorpane.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/introspection/introspection.iml" filepath="$PROJECT_DIR$/Collection/introspection/introspection.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/ipsave/ipsave.iml" filepath="$PROJECT_DIR$/JavaFX/ipsave/ipsave.iml" />
