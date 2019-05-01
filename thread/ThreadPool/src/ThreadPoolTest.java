@@ -8,6 +8,7 @@
 
 import java.io.Serializable;
 import java.util.Collections;
+import java.util.Scanner;
 import java.util.concurrent.*;
 
 /**
@@ -20,7 +21,7 @@ import java.util.concurrent.*;
  */
 public class ThreadPoolTest {
 	
-	private static int produceTaskSleepTime = 2;
+	private static int produceTaskSleepTime = 2 * 1000;
 	private static int produceTaskMaxNumber = 10;
 	
 	public static void main(String[] args) {
@@ -33,12 +34,57 @@ public class ThreadPoolTest {
 				System.out.println("put " + task);
 				threadPool.execute(new ThreadPoolTask(task));
 				// 便于观察，等待一段时间
-				Thread.sleep(produceTaskSleepTime);
+//				Thread.sleep(produceTaskSleepTime / 1000);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}
+		
+//		for (int i = 0; i < 1000; i++) {
+//			try {
+//				Thread.sleep(1000);
+//				System.out.println( i + " 当前活跃线程数 " + threadPool.getActiveCount());
+//			}catch (Exception e){
+//
+//			}
+//
+//		}
+		
+		
 		System.out.println("main 线程结束 ");
+		
+		while (true){
+			Scanner scanner = new Scanner(System.in);
+			int temp = scanner.nextInt();
+			switch (temp){
+				case 0:
+					System.out.println("关闭线程池");
+					threadPool.shutdown();
+					break;
+				case 1:
+					System.out.println("添加新任务");
+					threadPool.execute(new ThreadPoolTask("新任务 " + System.currentTimeMillis()));
+					break;
+				case 2:
+					System.out.println("添加10个新任务");
+					try {
+						// 产生一个任务，并将其加入到线程池
+						String task = "批量task@ " + System.currentTimeMillis();
+						System.out.println("put " + task);
+						threadPool.execute(new ThreadPoolTask(task));
+						// 便于观察，等待一段时间
+//				Thread.sleep(produceTaskSleepTime / 1000);
+					} catch (Exception e) {
+						e.printStackTrace();
+					}
+					break;
+				default:
+					break;
+				
+			}
+		}
+		
+		
 	}
 }
 
@@ -61,7 +107,7 @@ class ThreadPoolTask implements Runnable, Serializable {
 		
 		try {
 			// //便于观察，等待一段时间
-			Thread.sleep(consumeTaskSleepTime);
+			Thread.sleep(consumeTaskSleepTime  );
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -70,5 +116,11 @@ class ThreadPoolTask implements Runnable, Serializable {
 	
 	public Object getTask() {
 		return this.threadPoolTaskData;
+	}
+	
+	@Override
+	protected void finalize() throws Throwable {
+		super.finalize();
+		System.out.println("线程结束  "  + Thread.currentThread().getName());
 	}
 }
