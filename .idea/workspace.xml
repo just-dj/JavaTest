@@ -5,18 +5,8 @@
     <bookmark url="file://$PROJECT_DIR$/base/ForTest/src/ForTest.java" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="wait() notify()测试">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/JoinTest/document/join.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/JoinTest/src/JoinTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/ThreadLocal .md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/AspectJProxyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/NaiveWaiter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/PreGreetingAspect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/Waiter.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="ThreadLocal测试">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/Main.java" afterPath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/ThreadLocalTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/JunitTest/target/" />
@@ -560,7 +550,7 @@
       <workItem from="1554534421084" duration="19308000" />
       <workItem from="1554870897132" duration="1413000" />
       <workItem from="1554906247282" duration="14937000" />
-      <workItem from="1555851478365" duration="52932000" />
+      <workItem from="1555851478365" duration="52997000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -639,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556778370203</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ThreadLocal测试">
+      <created>1556801059394</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556801059394</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100203000" />
+    <option name="totallyTimeSpent" value="100268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -698,7 +695,8 @@
     <MESSAGE value="调整目录结构" />
     <MESSAGE value="线程池速度测试 synchronized测试" />
     <MESSAGE value="wait() notify()测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="wait() notify()测试" />
+    <MESSAGE value="ThreadLocal测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="ThreadLocal测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
