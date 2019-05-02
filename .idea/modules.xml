@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/base/JavaReflect/JavaReflect.iml" filepath="$PROJECT_DIR$/base/JavaReflect/JavaReflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest.iml" filepath="$PROJECT_DIR$/JavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Java期末大作业/Java期末大作业.iml" filepath="$PROJECT_DIR$/JavaFX/Java期末大作业/Java期末大作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" filepath="$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/List(ArrayList&amp;LinkedList).iml" filepath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/List(ArrayList&amp;LinkedList).iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Login/Login.iml" filepath="$PROJECT_DIR$/JavaFX/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Map/Map.iml" filepath="$PROJECT_DIR$/Collection/Map/Map.iml" />
