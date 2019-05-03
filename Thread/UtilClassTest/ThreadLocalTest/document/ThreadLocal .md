@@ -96,7 +96,7 @@ ThreadLocal.set，ThreadLocal.remove实际上是同样的道理。
 
 　　先看下get方法的实现：
 
-　　![img](./img/241027152537015.jpg)
+　　![img](img/241027152537015.jpg)
 
  　　第一句是取得当前线程，然后通过getMap(t)方法获取到一个map，map的类型为ThreadLocalMap。然后接着下面获取到<key,value>键值对，注意这里获取键值对传进去的是  this，而不是当前线程t。
 
@@ -108,27 +108,27 @@ ThreadLocal.set，ThreadLocal.remove实际上是同样的道理。
 
 　　首先看一下getMap方法中做了什么：
 
-　　![img](./img/241028044719452.jpg)
+　　![img](img/241028044719452.jpg)
 
 　　可能大家没有想到的是，在getMap中，是调用当期线程t，返回当前线程t中的一个成员变量threadLocals。
 
 　　那么我们继续取Thread类中取看一下成员变量threadLocals是什么：
 
-　　![img](./img/241029514406632.jpg)
+　　![img](img/241029514406632.jpg)
 
 　　实际上就是一个ThreadLocalMap，这个类型是ThreadLocal类的一个内部类，我们继续取看ThreadLocalMap的实现：
 
-　　![img](./img/241031330495608.jpg)
+　　![img](img/241031330495608.jpg)
 
 　　可以看到ThreadLocalMap的Entry继承了WeakReference，并且使用ThreadLocal作为键值。
 
 　　然后再继续看setInitialValue方法的具体实现：
 
-![img](./img/241034465033208.jpg)
+![img](img/241034465033208.jpg)
 
 　　很容易了解，就是如果map不为空，就设置键值对，为空，再创建Map，看一下createMap的实现：
 
-　　![img](./img/241038005189081.jpg)
+　　![img](img/241038005189081.jpg)
 
 　　至此，可能大部分朋友已经明白了ThreadLocal是如何为每个线程创建变量的副本的：
 
@@ -142,7 +142,7 @@ ThreadLocal.set，ThreadLocal.remove实际上是同样的道理。
 
  　　这段代码的输出结果为：
 
-　　![img](./img/241058553934886.jpg)
+　　![img](img/241058553934886.jpg)
 
 　　从这段代码的输出结果可以看出，在main线程中和thread1线程中，longLocal保存的副本值和stringLocal保存的副本值都不一样。最后一次在main线程再次打印副本值是为了证明在main线程中和thread1线程中的副本值确实是不同的。
 
@@ -158,7 +158,7 @@ ThreadLocal.set，ThreadLocal.remove实际上是同样的道理。
 
 　　　 因为在上面的代码分析过程中，我们发现如果没有先set的话，即在map中查找不到对应的存储，则会通过调用setInitialValue方法返回i，而在setInitialValue方法中，有一个语句是T value = initialValue()， 而默认情况下，initialValue方法返回的是null。
 
-　　![img](./img/241109342846403.jpg)
+　　![img](img/241109342846403.jpg)
 
 　　看下面这个例子：
 
