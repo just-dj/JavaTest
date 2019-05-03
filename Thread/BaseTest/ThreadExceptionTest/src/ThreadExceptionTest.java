@@ -3,9 +3,12 @@
  * Date: 19.5.3
  * Time: 16:33
  *
- * @author justdj
+ * @author
  * @email top90982@gmail.com
- * @Desc 如果一个线程没有显式的设置它的UncaughtExceptionHandler，JVM就会检查该线程所在的线程组是否设置了UncaughtExceptionHandler，如果已经设置，就是用该UncaughtExceptionHandler；否则查看是否在Thread层面通过静态方法setDefaultUncaughtExceptionHandler()设置了UncaughtExceptionHandler，如果已经设置就是用该UncaughtExceptionHandler；如果上述都没有找到，JVM会在对应的console中打印异常的堆栈信息
+ * @Desc  原文 https://blog.csdn.net/yizhenn/article/details/70284090
+ * 如果一个线程没有显式的设置它的UncaughtExceptionHandler，JVM就会检查该线程所在的线程组是否设置了UncaughtExceptionHandler，如果已经设置，就是用该UncaughtExceptionHandler；否则查看是否在Thread层面通过静态方法setDefaultUncaughtExceptionHandler()设置了UncaughtExceptionHandler，如果已经设置就是用该UncaughtExceptionHandler；如果上述都没有找到，JVM会在对应的console中打印异常的堆栈信息
+ *
+ * 对于线程组和线程池的线程类异常处理还没测试
  */
 public class ThreadExceptionTest {
 
