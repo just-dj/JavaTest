@@ -19,12 +19,14 @@
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Java期末大作业/Java期末大作业.iml" filepath="$PROJECT_DIR$/JavaFX/Java期末大作业/Java期末大作业.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" filepath="$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/List(ArrayList&amp;LinkedList).iml" filepath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/List(ArrayList&amp;LinkedList).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Lock/LockTest/LockTest.iml" filepath="$PROJECT_DIR$/Thread/Lock/LockTest/LockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Login/Login.iml" filepath="$PROJECT_DIR$/JavaFX/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Map/Map.iml" filepath="$PROJECT_DIR$/Collection/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/OperationTest/OperationTest.iml" filepath="$PROJECT_DIR$/base/OperationTest/OperationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" filepath="$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVM/OutOfMemoryTest/OutOfMemoryTest.iml" filepath="$PROJECT_DIR$/JVM/OutOfMemoryTest/OutOfMemoryTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/ReadWriteLockTest.iml" filepath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/ReadWriteLockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Rose shop/Rose shop.iml" filepath="$PROJECT_DIR$/JavaFX/Rose shop/Rose shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RunnableTest/RunnableTest.iml" filepath="$PROJECT_DIR$/Thread/RunnableTest/RunnableTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/SellTickets/SellTickets.iml" filepath="$PROJECT_DIR$/JavaFX/SellTickets/SellTickets.iml" />
