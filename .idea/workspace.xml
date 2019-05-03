@@ -6,63 +6,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/ThreadLocalTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/document/condition.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/document/ReentrantReadWriteLock.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/InheritableThreadLocal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/document/Timer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/src/TimerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/document/JAVA多线程编程-锁优化.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/document/线程的状态.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread/document/锁类型.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/libraries/mysql_connector_java_5_1_44_bin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/lib/mysql-connector-java-5.1.44-bin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/MyCell.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/MyThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/Sql.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/controller/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/css/page_main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/css/signIn.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/data.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/image/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/image/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/layout/page_main.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/src/project/layout/signIn.fxml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/CallableTest/CallableTest.iml" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/ConditionTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/CallableTest/src/CallableTest.java" afterPath="$PROJECT_DIR$/Thread/RunThread/CallableTest/src/CallableTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ConsumerProducer/ConsumerProducer.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/ConsumerProducer.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ConsumerProducer/src/Main.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ConsumerProducer/src/MyService.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/MyService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/JoinTest/JoinTest.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/JoinTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/JoinTest/document/join.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/document/join.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/JoinTest/src/JoinTest.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/src/JoinTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/RunnableTest/RunnableTest.iml" afterPath="$PROJECT_DIR$/Thread/RunThread/CallableTest/CallableTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/RunnableTest/src/Main.java" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/RunnableTest/src/MyThread.java" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/MyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/RunnableTest/src/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/ThreadLocalTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/RunnableTest/src/Worker.java" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Worker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/SynchronizedTest/SynchronizedTest.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/SynchronizedTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/SynchronizedTest/document/Synchronized 实现原理与应用.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized 实现原理与应用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/SynchronizedTest/document/Synchronized.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/SynchronizedTest/src/SynchronizedTest.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/src/SynchronizedTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/description.html" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/description.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/libraries/aspectjrt_1_7_3.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/aspectjrt_1_7_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/libraries/spring.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/spring.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/misc.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/modules.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/project-template.xml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/project-template.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/uiDesigner.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/ThreadLocalTest.iml" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/RunnableTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/ThreadLocal .md" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/ThreadLocal .md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241027152537015.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241027152537015.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241028044719452.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241028044719452.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241029514406632.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241029514406632.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241031330495608.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241031330495608.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241034465033208.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241034465033208.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241038005189081.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241038005189081.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241058553934886.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241058553934886.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/document/img/241109342846403.jpg" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241109342846403.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadLocalTest/src/top/justdj/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/src/top/justdj/ThreadLocalTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/.idea/description.html" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/description.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/.idea/misc.xml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/.idea/modules.xml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/.idea/project-template.xml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/project-template.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/ThreadMethodtest.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/ThreadMethodtest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/document/20150401114622564.png" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/20150401114622564.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/document/线程 状态.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程 状态.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/document/线程常用方法.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程常用方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadMethodtest/src/top/justdj/Main.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/src/top/justdj/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadPoolSpeedTest/ThreadPoolSpeedTest.iml" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolSpeedTest/ThreadPoolSpeedTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadPoolSpeedTest/src/ThreadPoolSpeedTest.java" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolSpeedTest/src/ThreadPoolSpeedTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadPoolTest/ThreadPoolTest.iml" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolTest/ThreadPoolTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/ThreadPoolTest/src/ThreadPoolTest.java" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolTest/src/ThreadPoolTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/WaitNotifyTest/WaitNotifyTest.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/WaitNotifyTest.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/WaitNotifyTest/document/wait 和 notify.md" afterPath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/document/wait 和 notify.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Thread/WaitNotifyTest/src/WaitNotifyTest.java" afterPath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/src/WaitNotifyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java" afterPath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/javaBigzuoye.iml" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/TimerTest.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/java大作业备份.iml" afterPath="$PROJECT_DIR$/DesignPattern/SingletonModeTest/SingletonModeTest.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaFX/java大作业备份/java大作业备份1.iml" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/ThreadExceptionTest.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/JunitTest/target/" />
@@ -76,45 +59,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LockTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java">
+      <file leaf-file-name="ThreadExceptionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="156">
+              <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#485#494#0" expanded="true" />
-                <element signature="method#insert#0;class#LockTest#0" expanded="false" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1701#1702#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadWriteLockTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java">
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConditionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collection/Map/src/top/justdj/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="276">
+              <caret line="1941" column="0" lean-forward="false" selection-start-line="1941" selection-start-column="0" selection-end-line="1941" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -142,10 +104,15 @@
       <find>threadLocal</find>
       <find>线程IntegerTask1</find>
       <find>assets</find>
+      <find>Test</find>
+      <find>../../../..</find>
+      <find>Timer</find>
     </findStrings>
     <replaceStrings>
       <replace>ThreadLocalTest</replace>
       <replace>./img</replace>
+      <replace>ReadWriteLockTest</replace>
+      <replace>img</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -196,6 +163,14 @@
         <option value="$PROJECT_DIR$/Thread/SynchronizedTest/document/Synchronized 实现原理与应用.md" />
         <option value="$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java" />
         <option value="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java" />
+        <option value="$PROJECT_DIR$/Thread/document/锁类型.md" />
+        <option value="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/Test.java" />
+        <option value="$PROJECT_DIR$/Thread/Lock/ConditionTest/document/condition.md" />
+        <option value="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" />
+        <option value="$PROJECT_DIR$/Thread/document/线程的状态.md" />
+        <option value="$PROJECT_DIR$/Thread/document/JAVA多线程编程-锁优化.md" />
+        <option value="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/src/TimerTest.java" />
+        <option value="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java" />
       </list>
     </option>
   </component>
@@ -306,7 +281,58 @@
             <path>
               <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonModeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
               <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadExceptionTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadExceptionTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="UtilClassTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="UtilClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TimerTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,7 +343,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown.Preview" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="nodejs_interpreter_path" value="E:/node/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -328,11 +354,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JavaTest\Thread\UtilClassTest\TimerTest\document" />
+      <recent name="G:\JavaTest\Thread\document" />
+      <recent name="G:\JavaTest\Thread\UtilClassTest\ThreadLocalTest\document" />
+      <recent name="G:\JavaTest\Thread\Lock\ReadWriteLockTest\document" />
       <recent name="G:\JavaTest\Thread\SynchronizedTest\document" />
-      <recent name="G:\JavaTest\Thread\Lock\LockTest\document" />
-      <recent name="G:\JavaTest\Thread\ThreadLocalTest\document" />
-      <recent name="G:\JavaTest\Thread\JoinTest\document" />
-      <recent name="G:\JavaTest\Thread\WaitNotifyTest\document" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -357,10 +383,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockTest">
-    <configuration name="JoinTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ThreadExceptionTest">
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="JoinTester" />
+      <option name="MAIN_CLASS_NAME" value="ConditionTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,12 +395,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JoinTest" />
+      <module name="ConditionTest" />
       <envs />
     </configuration>
-    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LockTest" />
+      <option name="MAIN_CLASS_NAME" value="ConditionTest2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -383,17 +409,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LockTest" />
+      <module name="ConditionTest" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="top.justdj.*" />
+          <option name="PATTERN" value="sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.justdj.Main" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,7 +428,21 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThreadLocalTest" />
+      <module name="testWebView" />
+      <envs />
+    </configuration>
+    <configuration name="ReadWriteLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ReadWriteLockTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ReadWriteLockTest" />
       <envs />
     </configuration>
     <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -419,28 +459,9 @@
       <module name="SynchronizedTest" />
       <envs />
     </configuration>
-    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="top.justdj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="top.justdj.ThreadLocalTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThreadLocalTest" />
-      <envs />
-    </configuration>
-    <configuration name="WaitNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="WaitNotifyTest" />
+      <option name="MAIN_CLASS_NAME" value="ThreadExceptionTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -449,7 +470,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WaitNotifyTest" />
+      <module name="ThreadExceptionTest" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -533,19 +554,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WaitNotifyTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JoinTester" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LockTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConditionTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConditionTest2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ThreadExceptionTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LockTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JoinTester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WaitNotifyTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadExceptionTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConditionTest2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConditionTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -567,7 +588,7 @@
       <workItem from="1554534421084" duration="19308000" />
       <workItem from="1554870897132" duration="1413000" />
       <workItem from="1554906247282" duration="14937000" />
-      <workItem from="1555851478365" duration="57378000" />
+      <workItem from="1555851478365" duration="68867000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -667,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556848512644</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="调整Thread目录结构">
+      <created>1556848872536</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556848872536</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104649000" />
+    <option name="totallyTimeSpent" value="116138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -686,16 +714,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3393057" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24076147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20171674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25195968" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21298283" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21298283" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -728,7 +756,8 @@
     <MESSAGE value="wait() notify()测试" />
     <MESSAGE value="ThreadLocal测试" />
     <MESSAGE value="Lock测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lock测试" />
+    <MESSAGE value="调整Thread目录结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整Thread目录结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,130 +775,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/base/BigIntegerAdd/src/top/justdj/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/StringTest/src/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/JavaReflect/src/top/justdj/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="false" />
-            <element signature="e#10948#10949#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/OperationTest/src/OperationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-547">
-          <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9180">
-          <caret line="383" column="15" lean-forward="false" selection-start-line="383" selection-start-column="15" selection-end-line="383" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4300">
-          <caret line="237" column="11" lean-forward="false" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
-          <folding>
-            <element signature="e#6812#6813#0" expanded="false" />
-            <element signature="e#6849#6850#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/RunThread/CallableTest/src/CallableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程 状态.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/20150401114622564.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程常用方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1701">
-            <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/ForTest/src/ForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/src/top/justdj/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/CloneableTest/src/LockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1073,17 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="181" column="22" lean-forward="false" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
-          <folding>
-            <element signature="e#15480#15481#0" expanded="false" />
-            <element signature="e#15546#15547#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/img/241027152537015.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1203,10 +1097,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#485#494#0" expanded="false" />
+            <element signature="method#insert#0;class#LockTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collection/Map/src/top/justdj/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaFX/testWebView/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaFX/testWebView/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Thread/Lock/LockTest/document/Lock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="-2592">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
               <marker date="1556808719487" expanded="false" signature="4151:4160" ph="&lt;~&gt;" />
@@ -1252,39 +1190,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#485#494#0" expanded="true" />
-            <element signature="method#insert#0;class#LockTest#0" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/Thread/document/锁类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="392">
+            <caret line="106" column="33" lean-forward="true" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+            <folding>
+              <marker date="1556850208867" expanded="false" signature="1887:1898" ph=" { " />
+              <marker date="1556850208867" expanded="false" signature="1908:1914" ph=" }" />
+              <marker date="1556850208867" expanded="true" signature="1960:1977" ph="{}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/document/ReentrantReadWriteLock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="695">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="e#475#559#0" expanded="false" />
+            <element signature="e#558#559#0" expanded="false" />
+            <element signature="e#574#658#0" expanded="false" />
+            <element signature="e#657#658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Lock/ConditionTest/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Lock/ConditionTest/document/condition.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/InheritableThreadLocal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/document/线程的状态.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="486">
+            <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/document/JAVA多线程编程-锁优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="506">
+            <caret line="271" column="30" lean-forward="true" selection-start-line="271" selection-start-column="30" selection-end-line="271" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/document/Timer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1542165259421" expanded="false" signature="177:186" ph=" { " />
+              <marker date="1542165259421" expanded="false" signature="230:235" ph=" }" />
+              <marker date="1542165259421" expanded="true" signature="278:709" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/src/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/ThreadExceptionTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="722">
+          <caret line="119" column="31" lean-forward="false" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ConditionTest#0" expanded="false" />
+            <element signature="method#simpleTest#0;class#ConditionTest#0" expanded="false" />
+            <element signature="class#ThreadA#0;class#ConditionTest#0" expanded="false" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="class#PutThread#0;class#ConditionTest2#0" expanded="false" />
+            <element signature="class#TakeThread#0;class#ConditionTest2#0" expanded="false" />
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2052#2053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="1941" column="0" lean-forward="false" selection-start-line="1941" selection-start-column="0" selection-end-line="1941" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collection/Map/src/top/justdj/Main.java">
+    <entry file="file://$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="156">
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
