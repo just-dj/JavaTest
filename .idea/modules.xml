@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" filepath="$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVM/OutOfMemoryTest/OutOfMemoryTest.iml" filepath="$PROJECT_DIR$/JVM/OutOfMemoryTest/OutOfMemoryTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/PropertyTest/PropertyTest.iml" filepath="$PROJECT_DIR$/base/PropertyTest/PropertyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/ReadWriteLockTest.iml" filepath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/ReadWriteLockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Rose shop/Rose shop.iml" filepath="$PROJECT_DIR$/JavaFX/Rose shop/Rose shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RunThread/RunnableTest/RunnableTest.iml" filepath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/RunnableTest.iml" />
