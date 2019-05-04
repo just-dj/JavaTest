@@ -7,7 +7,10 @@ import java.util.concurrent.CountDownLatch;
  *
  * @author justdj
  * @email top90982@gmail.com
- * @Desc 等待指定数目的线程到达指定点后执行countDown方法，当所有线程都countDown后，执行await()的线程可以继续往下执行
+ * @Desc 感觉和join差不多 比join更强大一些
+ * 等待指定数目的线程到达指定点后执行countDown方法，当所有线程都countDown后，执行await()的线程可以继续往下执行
+ * 应用程序主线程启动的时候 等待数据库 缓存线程启动完成后再继续运行
+ *
  */
 public class CountDownLatchTest {
 	

@@ -8,6 +8,7 @@ import java.util.concurrent.CyclicBarrier;
  * @author justdj
  * @email top90982@gmail.com
  * @Desc 线程屏障 ，先到达的线程被阻塞，等待所有线程到达后继续运行，
+ * 初始化参数是可以修改的，CountDownLatch 是不可修改的 。
  */
 
 //	原文：https://blog.csdn.net/qq_38293564/article/details/80558157
