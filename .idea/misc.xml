@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/OutOfMemoryTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" />
       </list>
     </option>
   </component>
