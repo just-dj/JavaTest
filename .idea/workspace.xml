@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="封装一下组装树的相关代码">
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/filter/BaseFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/NullTest/NullTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/NullTest/src/NullTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,22 +84,22 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\JavaTest\Thread\UtilClassTest\CountDownLatchTest\document" />
-      <recent name="G:\JavaTest\Thread\UtilClassTest\TimerTest\document" />
-      <recent name="G:\JavaTest\Thread\document" />
-      <recent name="G:\JavaTest\Thread\UtilClassTest\ThreadLocalTest\document" />
-      <recent name="G:\JavaTest\Thread\Lock\ReadWriteLockTest\document" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\JavaTest\JavaFX" />
       <recent name="G:\JavaTest\Thread\BaseTest" />
       <recent name="G:\JavaTest\Thread\RunThread" />
       <recent name="G:\JavaTest\Thread\ThreadPool" />
       <recent name="G:\JavaTest\Thread\UtilClassTest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\my github\JavaTest" />
+      <recent name="G:\JavaTest\Thread\UtilClassTest\CountDownLatchTest\document" />
+      <recent name="G:\JavaTest\Thread\UtilClassTest\TimerTest\document" />
+      <recent name="G:\JavaTest\Thread\document" />
+      <recent name="G:\JavaTest\Thread\UtilClassTest\ThreadLocalTest\document" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,7 +230,7 @@
       <workItem from="1555851478365" duration="86668000" />
       <workItem from="1566442036907" duration="5909000" />
       <workItem from="1566452880926" duration="76000" />
-      <workItem from="1566452980407" duration="10161000" />
+      <workItem from="1566452980407" duration="12446000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -387,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566457298588</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="封装一下组装树的相关代码">
+      <created>1566467814361</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566467814361</updated>
+    </task>
+    <task id="LOCAL-00023" summary="封装一下组装树的相关代码">
+      <created>1566467990858</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566467990858</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
