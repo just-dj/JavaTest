@@ -4,17 +4,17 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="Semaphore测试">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/BaseNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" afterDir="false" />
+    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="封装一下组装树的相关代码">
+      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/filter/BaseFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/NullTest/NullTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/NullTest/src/NullTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0964501" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,24 +122,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeBuilderTest">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountDownLatchTest" />
-      <module name="CountDownLatchTest" />
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest" />
+      <module name="ForTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CyclicBarrierTest" />
-      <module name="CyclicBarrierTest" />
+    <configuration name="NullTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullTest" />
+      <module name="NullTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -201,19 +201,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDownLatchTest" />
-      <item itemvalue="Application.CyclicBarrierTest" />
       <item itemvalue="Application.SemaphoreTest" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.TreeBuilderTest" />
+      <item itemvalue="Application.NullTest" />
+      <item itemvalue="Application.ForTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TreeBuilderTest" />
+        <item itemvalue="Application.ForTest" />
+        <item itemvalue="Application.NullTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.SemaphoreTest" />
-        <item itemvalue="Application.CyclicBarrierTest" />
-        <item itemvalue="Application.CountDownLatchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,7 @@
       <workItem from="1555851478365" duration="86668000" />
       <workItem from="1566442036907" duration="5909000" />
       <workItem from="1566452880926" duration="76000" />
-      <workItem from="1566452980407" duration="4242000" />
+      <workItem from="1566452980407" duration="10161000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -380,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556966190330</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="封装一下组装树的相关代码">
+      <created>1566457298588</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1566457298588</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +425,8 @@
     <MESSAGE value="JavaFX的属性和绑定" />
     <MESSAGE value="CountDownLatch测试 CyclicBarrier测试" />
     <MESSAGE value="Semaphore测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semaphore测试" />
+    <MESSAGE value="封装一下组装树的相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装一下组装树的相关代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

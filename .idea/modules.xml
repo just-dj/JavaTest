@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Thread/Lock/LockTest/LockTest.iml" filepath="$PROJECT_DIR$/Thread/Lock/LockTest/LockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/Login/Login.iml" filepath="$PROJECT_DIR$/JavaFX/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Map/Map.iml" filepath="$PROJECT_DIR$/Collection/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/NullTest/NullTest.iml" filepath="$PROJECT_DIR$/base/NullTest/NullTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/OperationTest/OperationTest.iml" filepath="$PROJECT_DIR$/base/OperationTest/OperationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" filepath="$PROJECT_DIR$/base/OptionalTest/OptionalTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/Algo/PrimeNumber/PrimeNumber.iml" />

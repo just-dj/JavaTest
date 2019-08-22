@@ -11,9 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="buildTree" target="1.5" />
-      <module name="JavaTest" target="1.5" />
-      <module name="OutOfMemoryTest" target="1.8" />
+      <module name="buildTree" target="8" />
+      <module name="JavaTest" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

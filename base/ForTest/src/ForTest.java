@@ -6,6 +6,8 @@
   Info:
 */
 
+import java.util.List;
+
 /**
  * Created with IntelliJ IDEA.
  *
@@ -42,6 +44,12 @@ public class ForTest {
 		}
 	    end = System.nanoTime();
 		System.out.println("外大内小 " +( end - start));
+		
+		// 下面这种for循环也是要判断空值的
+		List<Object> temp = null;
+		for (Object item : temp){
+		
+		}
 		
 	}
 	

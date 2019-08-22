@@ -1,6 +1,11 @@
 package util;
 
+import com.alibaba.fastjson.JSON;
+import util.filter.BaseFilter;
+
 import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -29,12 +34,12 @@ public final class TreeBuilderUtil {
     
     public static <T extends BaseNode> List <T> bulid(List<T> treeNodes,String rootId) {
         //trees 里存放所有的根节点
-        List<BaseNode> trees = new ArrayList <BaseNode>();
+        List trees = new ArrayList <BaseNode>();
         
         for (BaseNode treeNode : treeNodes) {
             // 首先判断是不是根节点 是根节点 加入数组 对于 null 值特殊处理一下
-            boolean isNullAndEqual = (rootId == null && treeNode.getId() == null);
-            if ( isNullAndEqual || rootId.equals(treeNode.getParentId())) {
+            //第一个==是为了处理rootId为null的情况下
+            if ( rootId == treeNode.getId() || (rootId != null && rootId.equals(treeNode.getParentId()))) {
                 trees.add(treeNode);
             }
             // 这个循环的作用就是找到当前节点的所有子节点
@@ -60,10 +65,10 @@ public final class TreeBuilderUtil {
     }
     
     public static <T extends BaseNode> List<T> buildByRecursive(List<T> treeNodes,String rootId) {
-        List<BaseNode> trees = new ArrayList<BaseNode>();
+        List trees = new ArrayList<BaseNode>();
         for (BaseNode treeNode : treeNodes) {
-            boolean isNullAndEqual = (rootId == null && treeNode.getId() == null);
-            if ( isNullAndEqual || rootId.equals(treeNode.getParentId())) {
+            //第一个==是为了处理rootId为null的情况下
+            if ( rootId == treeNode.getId() || (rootId != null && rootId.equals(treeNode.getParentId()))) {
                 trees.add(treeNode);
             }
         }
@@ -85,6 +90,39 @@ public final class TreeBuilderUtil {
         }
         return treeNode;
     }
+    
+    
+    /**
+     * 广度优先
+     * @param root
+     * @param filter
+     * @param <T>
+     * @return
+     */
+    public static <T extends BaseNode> List<T> findNode(List<T> root, BaseFilter filter) {
+        System.out.println(JSON.toJSONString(root));
+        
+        Deque <BaseNode> nodeDeque = new LinkedList <BaseNode>();
+        BaseNode node;
+        List result = new ArrayList <T>();
+        if (root != null){
+            for (BaseNode item : root){
+                nodeDeque.push(item);
+            }
+        }
+        while (!nodeDeque.isEmpty()) {
+            node = nodeDeque.pop();
+            if (filter.isSatisfy(node)){
+                result.add(node);
+            }
+            if (node.getChildren() != null)
+                for (BaseNode treeNode : node.getChildren()) {
+                        nodeDeque.addLast(treeNode);
+                }
+        }
+        return result;
+    }
+    
     
     
 }
