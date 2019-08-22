@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base/BigIntegerAdd/BigIntegerAdd.iml" filepath="$PROJECT_DIR$/base/BigIntegerAdd/BigIntegerAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/UtilClassTest/BlockingQueueTest/BlockingQueueTest.iml" filepath="$PROJECT_DIR$/Thread/UtilClassTest/BlockingQueueTest/BlockingQueueTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RunThread/CallableTest/CallableTest.iml" filepath="$PROJECT_DIR$/Thread/RunThread/CallableTest/CallableTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algo/CircleNumber/CircleNumber.iml" filepath="$PROJECT_DIR$/Algo/CircleNumber/CircleNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/CloneableTest/CloneableTest.iml" filepath="$PROJECT_DIR$/base/CloneableTest/CloneableTest.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algo/sort/Sort/Sort.iml" filepath="$PROJECT_DIR$/Algo/sort/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVM/StackOverFlowTest/StackOverFlowTest.iml" filepath="$PROJECT_DIR$/JVM/StackOverFlowTest/StackOverFlowTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/base/StringTest/StringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/StringUtil/StringUtil.iml" filepath="$PROJECT_DIR$/base/StringUtil/StringUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/SynchronizedTest.iml" filepath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/SynchronizedTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/TestMenu/TestMenu.iml" filepath="$PROJECT_DIR$/JavaFX/TestMenu/TestMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/ThreadExceptionTest.iml" filepath="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/ThreadExceptionTest.iml" />
@@ -56,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collection/list/list.iml" filepath="$PROJECT_DIR$/Collection/list/list.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/reflection/reflection.iml" filepath="$PROJECT_DIR$/Collection/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/set/set.iml" filepath="$PROJECT_DIR$/Collection/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shudu/shudu.iml" filepath="$PROJECT_DIR$/shudu/shudu.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/sqllib/sqllib.iml" filepath="$PROJECT_DIR$/JavaFX/sqllib/sqllib.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/testFxmla/testFxmla.iml" filepath="$PROJECT_DIR$/JavaFX/testFxmla/testFxmla.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/testPane/testPane.iml" filepath="$PROJECT_DIR$/JavaFX/testPane/testPane.iml" />
