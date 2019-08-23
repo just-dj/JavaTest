@@ -51,19 +51,25 @@ public class TreeBuilderTest {
     public static void main(String[] args){
         List<DepartmentInfo> list = getData();
         
+        // 数组转为树
         List<DepartmentInfo> tree1 = TreeBuilderUtil.bulid(list);
+//        System.out.println(JSON.toJSONString(tree1));
+//
+//        // 数组转为树
+//        List<DepartmentInfo> tree2 = TreeBuilderUtil.buildByRecursive(list);
+//
+//        // 查找树中元素
+//        List<DepartmentInfo> result = TreeBuilderUtil.findNode(tree2, (temp) -> {
+//            DepartmentInfo departmentInfo  = (DepartmentInfo)temp;
+//            if (departmentInfo.getName().equals("黄埔区")){
+//                return true;
+//            }
+//            return false;
+//        });
+
+        // 将树转化为数组
+        System.out.println(JSON.toJSONString(TreeBuilderUtil.toList(tree1)));
         System.out.println(JSON.toJSONString(tree1));
-        
-        List<DepartmentInfo> tree2 = TreeBuilderUtil.buildByRecursive(list);
-        
-        List<DepartmentInfo> result = TreeBuilderUtil.findNode(tree2, (temp) -> {
-            DepartmentInfo departmentInfo  = (DepartmentInfo)temp;
-            if (departmentInfo.getName().equals("黄埔区")){
-                return true;
-            }
-            return false;
-        });
-        System.out.println(JSON.toJSONString(result));
     }
     
     

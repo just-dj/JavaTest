@@ -113,11 +113,10 @@ public final class TreeBuilderUtil {
         Deque <BaseNode> nodeDeque = new LinkedList <BaseNode>();
         BaseNode node;
         List result = new ArrayList <T>();
-        if (root != null) {
-            for (BaseNode item : root) {
-                nodeDeque.push(item);
-            }
+        for (BaseNode item : root) {
+            nodeDeque.push(item);
         }
+        
         while (!nodeDeque.isEmpty()) {
             node = nodeDeque.pop();
             if (filter.isSatisfy(node)) {
@@ -140,18 +139,17 @@ public final class TreeBuilderUtil {
      * @param <T>
      * @return
      */
-    public static <T extends BaseNode> List <T> findNode(List <T> root) {
-        if (collectionIsEmpty(root))
+    public static <T extends BaseNode> List <T> toList(List <T> tree) {
+        if (collectionIsEmpty(tree))
             return Collections.emptyList();
         
         Deque <BaseNode> nodeDeque = new LinkedList <BaseNode>();
         BaseNode node;
         List result = new ArrayList <T>();
-        if (root != null) {
-            for (BaseNode item : root) {
-                nodeDeque.push(item);
-            }
+        for (BaseNode item : tree) {
+            nodeDeque.push(item);
         }
+        
         while (!nodeDeque.isEmpty()) {
             node = nodeDeque.pop();
             result.add(node);
@@ -166,7 +164,7 @@ public final class TreeBuilderUtil {
     
     
     private static boolean collectionIsEmpty(List list) {
-        return list == null || list.size() == 0 ? true : false;
+        return list == null || list.size() <=0 ? true : false;
     }
     
 }

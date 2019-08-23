@@ -10,7 +10,7 @@
         <module name="buildTree" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="buildTree" target="8" />
       <module name="JavaTest" target="8" />
     </bytecodeTargetLevel>
