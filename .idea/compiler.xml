@@ -2,16 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OutOfMemoryTest" />
+        <module name="buildTree" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JavaTest" target="1.5" />
-      <module name="OutOfMemoryTest" target="1.8" />
+    <bytecodeTargetLevel target="8">
+      <module name="buildTree" target="8" />
+      <module name="JavaTest" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
