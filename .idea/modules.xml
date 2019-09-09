@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/TimerTest.iml" filepath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/TimerTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/WaitNotifyTest.iml" filepath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/WaitNotifyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" filepath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/charTest/charTest.iml" filepath="$PROJECT_DIR$/base/charTest/charTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/colorpane/colorpane.iml" filepath="$PROJECT_DIR$/JavaFX/colorpane/colorpane.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/introspection/introspection.iml" filepath="$PROJECT_DIR$/Collection/introspection/introspection.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX/ipsave/ipsave.iml" filepath="$PROJECT_DIR$/JavaFX/ipsave/ipsave.iml" />
