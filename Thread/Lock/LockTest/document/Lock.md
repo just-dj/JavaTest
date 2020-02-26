@@ -483,7 +483,7 @@ public class Test {
 　　看下面这段代码就明白了：
 
 ```java
-class MyClass {
+class Human {
     public synchronized void method1() {
         method2();
     }

@@ -8,10 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="buildTree" />
+        <module name="ClassHeadTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="buildTree" target="8" />
+      <module name="buildTree" target="1.5" />
+      <module name="ClassHeadTest" target="1.5" />
       <module name="JavaTest" target="8" />
     </bytecodeTargetLevel>
   </component>

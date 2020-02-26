@@ -3,65 +3,540 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="BigIntegerAdd" />
+      <module name="BlockingQueueTest" />
+      <module name="CloneableTest" />
+      <module name="CircleNumber" />
+      <module name="ColorfulCircles" />
+      <module name="ConditionTest" />
+      <module name="ConsumerProducer" />
+      <module name="CallableTest" />
+      <module name="DrawEye" />
+      <module name="CountDownLatchTest" />
+      <module name="ExchangerTest" />
+      <module name="FinalTest" />
+      <module name="Exercise" />
+      <module name="FXMLEXample" />
+      <module name="CyclicBarrierTest" />
+      <module name="ForTest" />
+      <module name="HttpConnectionTest" />
+      <module name="JavaReflect" />
+      <module name="JavaTest" />
+      <module name="LockTest" />
+      <module name="Login" />
+      <module name="JoinTest" />
+      <module name="Map" />
+      <module name="List(ArrayList&amp;LinkedList)" />
+      <module name="OperationTest" />
+      <module name="NullTest" />
+      <module name="OperatorTest" />
+      <module name="OptionalTest" />
+      <module name="PrimeNumber" />
+      <module name="PropertyTest" />
+      <module name="Rose shop" />
+      <module name="ReadWriteLockTest" />
+      <module name="RunnableTest" />
+      <module name="SemaphoreTest" />
+      <module name="SingletonModeTest" />
+      <module name="Sort" />
+      <module name="StackOverFlowTest" />
+      <module name="SellTickets" />
+      <module name="StringUtil" />
+      <module name="StringTest" />
+      <module name="ThreadExceptionTest" />
+      <module name="SynchronizedTest" />
+      <module name="TestMenu" />
+      <module name="ThreadLocalTest" />
+      <module name="ThreadMethodtest" />
+      <module name="ThreadPoolSpeedTest" />
+      <module name="ThreadPoolTest" />
+      <module name="colorpane" />
+      <module name="introspection" />
+      <module name="TimerTest" />
+      <module name="WaitNotifyTest" />
+      <module name="reflection" />
+      <module name="ipsave" />
+      <module name="list" />
+      <module name="set" />
+      <module name="testRotate" />
+      <module name="sqllib" />
+      <module name="testPane" />
+      <module name="testWebView" />
+      <module name="testFxmla" />
+      <module name="threadProblem" />
+      <module name="testWidth" />
+      <module name="java消消乐" />
+      <module name="Java期末大作业" />
+      <module name="buildTree" />
+      <module name="ClassHeadTest" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="封装一下组装树的相关代码">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/model/DepartmentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/BaseNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/filter/BaseFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/NullTest/NullTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/NullTest/src/NullTest.java" afterDir="false" />
+    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="封装一下组装树的相关代码 增加了树转为list的功能">
+      <change afterPath="$PROJECT_DIR$/JVM/ClassHeadTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JVM/ClassHeadTest/src/main/java/ClassHeadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JVM/ClassHeadTest/src/main/java/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/OperatorTest/src/OperatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JunitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/JunitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ipsave.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ipsave.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ipsave1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ipsave1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ipsave2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ipsave2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ipsave3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ipsave3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_44_bin3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/unnamed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/unnamed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/unnamed1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/unnamed1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/CircleNumber/src/CircleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/CircleNumber/src/CircleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/PrimeNumber/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/PrimeNumber/src/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/sort/Sort/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/sort/Sort/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/model/DepartmentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/model/DepartmentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/BaseNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/BaseNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/filter/BaseFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/filter/BaseFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/List(ArrayList&amp;LinkedList)/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Map/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/Map/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Map/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/Map/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Map/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/Map/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/Map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Map/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/Map/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/introspection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/introspection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/introspection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/introspection/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/introspection/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/introspection/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/introspection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/introspection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/introspection/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/introspection/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/list/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/list/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/list/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/list/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/list/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/list/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/list/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/list/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/reflection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/reflection/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/reflection/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/reflection/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/reflection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/reflection/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/reflection/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/set/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/set/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/set/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/set/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/set/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/set/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/set/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/set/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/set/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/set/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/SingletonModeTest/src/SingletonModeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/SingletonModeTest/src/SingletonModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/OutOfMemoryTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/OutOfMemoryTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/OutOfMemoryTest/src/main/java/OutOfMemoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/OutOfMemoryTest/src/main/java/OutOfMemoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/StackOverFlowTest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/StackOverFlowTest/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ColorfulCircles/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/DrawEye/src/sample/WatchMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/DrawEye/src/sample/WatchMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/css/exercise.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/css/exercise.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Exercise/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/testJavascript.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/testJavascript.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/testJavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/FXMLEXample/src/sample/testJavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_beanutils_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_dbcp2_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_dbcp2_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_dbutils_1_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_dbutils_1_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_pool2_2_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/commons_pool2_2_4_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/mysql_connector_java_5_1_44_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/libraries/mysql_connector_java_5_1_44_bin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/ChangePasswordWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/ChangePasswordWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/LoginWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/LoginWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/ManagerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/ManagerWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/StudentWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/StudentWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/TeacherWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/TeacherWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/changePassword.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/changePassword.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/manager.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/manager.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/student.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/student.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/teacher.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/css/teacher.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/entity/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/changePassword.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/changePassword.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/manager.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/manager.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/student.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/student.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/teacher.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/fxml/teacher.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/helper/DatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/helper/DatabaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/util/AlertUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/util/AlertUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/util/CollectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/util/CollectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/引入的包说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/引入的包说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/dictionaries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/dictionaries/.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/src/sample/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/src/sample/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Login/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Login/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/PropertyTest/src/PropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/PropertyTest/src/PropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Rose shop/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/SellTickets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/SellTickets/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/SellTickets/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/TestMenu/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/TestMenu/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/css/colorPane.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/css/colorPane.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/colorpane/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/artifacts/ipsave_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/artifacts/ipsave_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/artifacts/ipsave_jar2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/artifacts/ipsave_jar2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/Sql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/css/net.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/css/net.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/ipsave/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/.project" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/bin/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/bin/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/bin/res/css/skin1.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/bin/res/css/skin1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/bin/res/css/skin2.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/bin/res/css/skin2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/bin/score.conf" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/bin/score.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/bin/service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/bin/service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/build.fxbuild" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/build.fxbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/StarAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/StarAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/StarFormUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/common/StarFormUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/ScoreServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/StarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/StarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/StarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/service/StarServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/util/StarsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/cn/campsg/practical/bubble/util/StarsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/res/css/skin1.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/res/css/skin1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/res/css/skin2.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/res/css/skin2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/score.conf" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/score.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/java消消乐/src/service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/java消消乐/src/service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/artifacts/ipsave_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/artifacts/ipsave_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/artifacts/ipsave_jar2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/artifacts/ipsave_jar2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/ipsave.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/ipsave.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/Sql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/css/net.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/css/net.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/sqllib/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testFxmla/src/sample/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testPane/src/sample/testPane.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testPane/src/sample/testPane.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testRotate/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWebView/src/sample/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/testWidth/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/GetChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/GetChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX/threadProblem/threadTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/threadProblem/threadTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ConsumerProducer/src/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/document/join.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/document/join.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/src/JoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/JoinTest/src/JoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized 实现原理与应用.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized 实现原理与应用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/document/Synchronized.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/src/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/SynchronizedTest/src/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadExceptionTest/src/ThreadExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程 状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程 状态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程常用方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/document/线程常用方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/ThreadMethodtest/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/document/wait 和 notify.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/document/wait 和 notify.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/src/WaitNotifyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/BaseTest/WaitNotifyTest/src/WaitNotifyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/ConditionTest/document/condition.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/document/condition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/ConditionTest/src/ConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/LockTest/document/Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/LockTest/document/Lock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/LockTest/src/LockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/document/ReentrantReadWriteLock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/document/ReentrantReadWriteLock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/Lock/ReadWriteLockTest/src/ReadWriteLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/RunThread/CallableTest/src/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/RunThread/CallableTest/src/CallableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/RunThread/RunnableTest/src/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolSpeedTest/src/ThreadPoolSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolSpeedTest/src/ThreadPoolSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolTest/src/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/ThreadPool/ThreadPoolTest/src/ThreadPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/CountDownLatchTest/document/CountDownLatch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/CountDownLatchTest/document/CountDownLatch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/CountDownLatchTest/src/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/CountDownLatchTest/src/CountDownLatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/CyclicBarrierTest/src/CyclicBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/CyclicBarrierTest/src/CyclicBarrierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ExchangerTest/src/ExchangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ExchangerTest/src/ExchangerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/SemaphoreTest/src/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/SemaphoreTest/src/SemaphoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/aspectjrt_1_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/aspectjrt_1_7_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/libraries/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/InheritableThreadLocal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/InheritableThreadLocal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/ThreadLocal .md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/document/ThreadLocal .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/src/top/justdj/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/ThreadLocalTest/src/top/justdj/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/document/Timer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/document/Timer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/src/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/UtilClassTest/TimerTest/src/TimerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/document/JAVA多线程编程-锁优化.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/document/JAVA多线程编程-锁优化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/document/线程的状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/document/线程的状态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/document/锁类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/document/锁类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/BigIntegerAdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/BigIntegerAdd/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/BigIntegerAdd/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/CloneableTest/src/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/CloneableTest/src/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/CloneableTest/src/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/CloneableTest/src/LockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/CloneableTest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/CloneableTest/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/CloneableTest/src/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/CloneableTest/src/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/CloneableTest/src/ThreadImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/CloneableTest/src/ThreadImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/FinalTest/src/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/FinalTest/src/FinalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/ForTest/src/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/.idea/libraries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/.idea/libraries/.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/JavaReflect/src/top/justdj/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/JavaReflect/src/top/justdj/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/NullTest/NullTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base/NullTest/NullTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/NullTest/src/NullTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/NullTest/src/NullTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OperationTest/src/OperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/OperationTest/src/OperationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OptionalTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/OptionalTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OptionalTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/OptionalTest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OptionalTest/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/OptionalTest/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OptionalTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/OptionalTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/OptionalTest/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/OptionalTest/src/top/justdj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/StringTest/src/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/StringTest/src/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/StringUtil/StringUtil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base/StringUtil/StringUtil.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/StringUtil/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/StringUtil/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shudu/shudu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shudu/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/HttpConnectionTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HttpConnectionTest/src/top/justdj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/HttpConnectionTest/src/top/justdj/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="151" column="8" lean-forward="true" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="8" />
-              <folding>
-                <element signature="method#bulid#1;class#TreeBuilderUtil#0" />
-                <element signature="method#buildByRecursive#0;class#TreeBuilderUtil#0" />
-                <element signature="method#buildByRecursive#1;class#TreeBuilderUtil#0" />
-                <element signature="e#4753#4754#0" expanded="true" />
-                <element signature="e#4822#4823#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,22 +556,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java" />
-        <option value="$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
   </component>
   <component name="ProjectId" id="1PlI0mPFhdkdJld89a4652QTvxd" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -142,70 +604,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="buildTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="buildTree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="buildTree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="buildTree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -213,10 +614,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0964501" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -237,21 +638,26 @@
       <recent name="G:\JavaTest\Thread\UtilClassTest\ThreadLocalTest\document" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TreeBuilderTest">
+  <component name="RunManager" selected="Application.ClassHeadTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassHeadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassHeadTest" />
+      <module name="ClassHeadTest" />
+      <option name="VM_PARAMETERS" value="-Djol.tryWithSudo=true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -259,39 +665,57 @@
     <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForTest" />
       <module name="ForTest" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="colorpane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="testWebView" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StringUtil" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullTest" />
-      <module name="NullTest" />
+    <configuration name="WatchMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.WatchMe" />
+      <module name="DrawEye" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SemaphoreTest" />
-      <module name="SemaphoreTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="ExchangerTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeBuilderTest" />
-      <module name="buildTree" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -309,15 +733,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -328,21 +743,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SemaphoreTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.TreeBuilderTest" />
-      <item itemvalue="Application.NullTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WatchMe" />
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.ForTest" />
+      <item itemvalue="Application.ClassHeadTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeBuilderTest" />
+        <item itemvalue="Application.ClassHeadTest" />
         <item itemvalue="Application.ForTest" />
-        <item itemvalue="Application.NullTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SemaphoreTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.WatchMe" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
@@ -366,6 +793,16 @@
       <workItem from="1566442036907" duration="5909000" />
       <workItem from="1566452880926" duration="76000" />
       <workItem from="1566452980407" duration="12446000" />
+      <workItem from="1567519628783" duration="73000" />
+      <workItem from="1568433754875" duration="11000" />
+      <workItem from="1568449482428" duration="706000" />
+      <workItem from="1571841038765" duration="662000" />
+      <workItem from="1581343301084" duration="919000" />
+      <workItem from="1581382443585" duration="887000" />
+      <workItem from="1582278599568" duration="510000" />
+      <workItem from="1582338462131" duration="1948000" />
+      <workItem from="1582364124530" duration="1803000" />
+      <workItem from="1582429318757" duration="1822000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -528,83 +965,15 @@
       <option name="project" value="LOCAL" />
       <updated>1566467990858</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="封装一下组装树的相关代码 增加了树转为list的功能">
+      <created>1566521751649</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1566521751649</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5105000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
-      <window_info id="Structure" order="1" weight="0.21298283" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25195968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08695652" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32922733" />
-      <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32819074" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.45862553" />
-      <window_info anchor="bottom" id="JProfiler" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Data View" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3299356" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
-      <window_info id="Structure" order="1" weight="0.21298283" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25195968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.087346025" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32922733" />
-      <window_info anchor="bottom" id="Statistic" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32922733" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3299356" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Data View" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -615,12 +984,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -662,7 +1025,70 @@
     <MESSAGE value="CountDownLatch测试 CyclicBarrier测试" />
     <MESSAGE value="Semaphore测试" />
     <MESSAGE value="封装一下组装树的相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="封装一下组装树的相关代码" />
+    <MESSAGE value="封装一下组装树的相关代码 增加了树转为list的功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装一下组装树的相关代码 增加了树转为list的功能" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="96" key="#Project_Structure" timestamp="1581343786068">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="96" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1581343786068" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582339183520">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813@0.23.1440.813" timestamp="1582339183520" />
+    <state x="184" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1582278900576" />
+    <state x="507" y="146" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582430424210">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="507" y="146" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.813@0.23.1440.813" timestamp="1582430424210" />
+    <state x="507" y="147" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.821@0.23.1440.821" timestamp="1582278704503" />
+    <state x="457" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582278857301">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="457" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.821@0.23.1440.821" timestamp="1582278857301" />
+    <state x="338" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582338669877">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="338" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.813@0.23.1440.813" timestamp="1582338669877" />
+    <state x="657" y="220" width="471" height="467" key="#com.intellij.tools.ToolEditorDialog" timestamp="1582430426721">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="657" y="220" width="471" height="467" key="#com.intellij.tools.ToolEditorDialog/0.23.1440.813@0.23.1440.813" timestamp="1582430426721" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom" timestamp="1582452292645">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1582430436601" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1582452292645" />
+    <state width="1398" height="358" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582278903483" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center" timestamp="1582452292644">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1582430436600" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1582452292644" />
+    <state width="1398" height="358" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582278903482" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left" timestamp="1582452292644">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1582430436600" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1582452292644" />
+    <state width="1398" height="358" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582278903482" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right" timestamp="1582452292645">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1582430436601" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1582452292645" />
+    <state width="1398" height="358" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582278903483" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1582430427686">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1582430427686" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1582278642407" />
+    <state x="348" y="32" key="new project wizard" timestamp="1582684873753">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="355" y="35" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1582338619167" />
+    <state x="348" y="32" key="new project wizard/0.23.1440.817@0.23.1440.817" timestamp="1582684873753" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -676,135 +1102,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shudu/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/UtilClassTest/CountDownLatchTest/src/CountDownLatchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/StringUtil/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/TreeBuilderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo/tree/buildTree/src/main/java/util/TreeBuilderUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="151" column="8" lean-forward="true" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="8" />
-          <folding>
-            <element signature="method#bulid#1;class#TreeBuilderUtil#0" />
-            <element signature="method#buildByRecursive#0;class#TreeBuilderUtil#0" />
-            <element signature="method#buildByRecursive#1;class#TreeBuilderUtil#0" />
-            <element signature="e#4753#4754#0" expanded="true" />
-            <element signature="e#4822#4823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>buildTree</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>ipsave</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
