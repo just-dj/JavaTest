@@ -6,6 +6,12 @@
         <option value="$PROJECT_DIR$/OutOfMemoryTest/pom.xml" />
         <option value="$PROJECT_DIR$/Algo/tree/buildTree/pom.xml" />
         <option value="$PROJECT_DIR$/JVM/ClassHeadTest/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/MybatisBaseTest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/SpringBaseTest/pom.xml" />
+        <option value="$PROJECT_DIR$/other/jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/JVM/cglibProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Collection/weakhashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/other/transmittable-thread-local/pom.xml" />
       </list>
     </option>
   </component>

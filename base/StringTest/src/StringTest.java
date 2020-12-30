@@ -34,6 +34,7 @@ public class StringTest {
 		String str3 = new String("abcd");
 		String str4 = new String("abcd");
 		System.out.println(str3 == str4);
+		System.out.println(str3.intern() == str4.intern());
 		
 	}
 	

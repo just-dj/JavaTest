@@ -47,6 +47,10 @@ public class ForTest {
 		
 		// 下面这种for循环也是要判断空值的
 		List<Object> temp = null;
+		temp.forEach(item -> {
+
+		});
+
 		for (Object item : temp){
 		
 		}

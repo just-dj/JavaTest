@@ -7,6 +7,7 @@
 */
 
 import java.util.Date;
+import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -29,7 +30,9 @@ class JoinTester implements Runnable {
 	public void run() {
 		System.out.printf("%s begins: %s\n", name, new Date());
 		try {
-			TimeUnit.SECONDS.sleep(4);
+			Scanner scanner = new Scanner(System.in);
+			scanner.next();
+			TimeUnit.SECONDS.sleep(1000000000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -38,7 +41,9 @@ class JoinTester implements Runnable {
 	
 	public static void main(String[] args) {
 		Thread thread1 = new Thread(new JoinTester("One"));
+		thread1.setName("线程1");
 		Thread thread2 = new Thread(new JoinTester("Two"));
+		thread2.setName("线程2");
 		thread1.start();
 		thread2.start();
 		
@@ -49,7 +54,9 @@ class JoinTester implements Runnable {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+
+
+
 		System.out.println("Main thread is finished");
 	}
 	

@@ -1,5 +1,6 @@
 package top.justdj;
 
+import java.math.BigDecimal;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
@@ -7,6 +8,9 @@ import java.util.regex.Pattern;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println(BigDecimal.valueOf(1234, 2));
+        System.out.println(BigDecimal.valueOf(1, 2));
+
         while(true){
             Scanner in = new Scanner(System.in);
             System.out.println("---------------------------------------------------------");

@@ -6,16 +6,70 @@ public class ThreadPoolSpeedTest {
     
     private static final Integer times = 100;
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
       //这里比较一下两种线程池的速度
         //times 100 task sleep 100ms 正常耗时约为10000
-        
+
+        /*
+        cached thread pool
+         */
         //开启100个线程 耗时119ms左右
-        testCachedThreadPool();
+//        testCachedThreadPool();
+
+//        Thread.sleep(100_000_000);
+        /*
+            fixed thread pool
+         */
+        //开启100个线程 耗时110ms左右
+//        testFixedThreadPool(100);
+
         //开启20个线程 耗时505ms左右
-        testFixedThreadPool();
+//        testFixedThreadPool(20);
+
+        /*
+        自建thread pool
+         */
         //开启4个线程 耗时2588ms左右
         testThreadPool();
+
+        ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(
+                100,
+                100,
+                3L,
+                TimeUnit.SECONDS,
+                new LinkedBlockingQueue <Runnable>(),
+                new ThreadFactory() {
+                    @Override
+                    public Thread newThread(Runnable r) {
+                        Thread thread = new Thread(r);
+                        thread.setName("自己创建的线程 " + System.currentTimeMillis());
+                        return thread;
+                    }
+                });
+
+        threadPoolExecutor.execute(new Runnable() {
+            @Override
+            public void run() {
+//                try {
+//                    Thread.sleep(1000L);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+            }
+        });
+        Thread.sleep(3000L);
+        threadPoolExecutor.execute(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(2000L);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+
+        Thread.sleep(100_000_000);
     }
     
     
@@ -35,9 +89,9 @@ public class ThreadPoolSpeedTest {
     }
     
     //times 为 100的时候 cachedThreadPool创建了5个线程
-   static void testFixedThreadPool(){
+   static void testFixedThreadPool(int n){
         long start = System.currentTimeMillis();
-        ThreadPoolExecutor fixedService = (ThreadPoolExecutor) Executors.newFixedThreadPool(20);
+        ThreadPoolExecutor fixedService = (ThreadPoolExecutor) Executors.newFixedThreadPool(n);
         for (int i = 0; i < times; i++) {
             fixedService.execute(new AddTask());
         }
@@ -55,7 +109,7 @@ public class ThreadPoolSpeedTest {
         long start = System.currentTimeMillis();
         ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(
                 4,
-                5,
+                4,
                 3L,
                 TimeUnit.SECONDS,
                 new LinkedBlockingQueue <Runnable>(),
