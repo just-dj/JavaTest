@@ -39,9 +39,9 @@ public final class DatabaseHelper {
 
 		String DRIVER = "com.mysql.jdbc.Driver";
 		//这里指明编码格式并且不使用ssl，因为数据库在本地
-		String URL = "jdbc:mysql://localhost:3306/demo?useUnicode=true&characterEncoding=utf-8&useSSL=false";
+		String URL = "jdbc:mysql://localhost:3306/halodb?useUnicode=true&characterEncoding=utf-8&useSSL=false";
 		String USERNAME = "root";
-		String PASSWORD = "521947";
+		String PASSWORD = "123456";
 		
 		//创建数据库连接
 		DATA_SOURCE = new BasicDataSource();
@@ -49,6 +49,7 @@ public final class DatabaseHelper {
 		DATA_SOURCE.setUrl(URL);
 		DATA_SOURCE.setUsername(USERNAME);
 		DATA_SOURCE.setPassword(PASSWORD);
+
 		
 		DATA_SOURCE.setInitialSize(5); // 初始的连接数；
 		DATA_SOURCE.setMaxTotal(20);  //最大连接数

@@ -18,14 +18,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="buildTree" target="6" />
+      <module name="buildTree" target="1.5" />
       <module name="cglibProxy" target="1.5" />
       <module name="ClassHeadTest" target="1.5" />
       <module name="jackson" target="1.5" />
       <module name="JavaTest" target="8" />
       <module name="MybatisBaseTest" target="1.5" />
       <module name="SpringBaseTest" target="1.5" />
-      <module name="transmittable-thread-local" target="8" />
+      <module name="transmittable-thread-local" target="1.5" />
       <module name="weakhashmap" target="1.5" />
     </bytecodeTargetLevel>
   </component>
