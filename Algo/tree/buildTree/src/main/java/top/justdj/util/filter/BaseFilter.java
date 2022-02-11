@@ -1,6 +1,6 @@
-package util.filter;
+package top.justdj.util.filter;
 
-import util.BaseNode;
+import top.justdj.util.base.BaseNode;
 
 /**
  * Created with IntelliJ IDEA.

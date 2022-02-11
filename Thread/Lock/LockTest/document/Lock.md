@@ -121,9 +121,9 @@ Condition b = lock.newCondition();
 
 　　2）Lock和synchronized有一点非常大的不同，采用synchronized不需要用户去手动释放锁，当synchronized方法或者synchronized代码块执行完之后，系统会自动让线程释放对锁的占用；而Lock则必须要用户去手动释放锁，如果没有主动释放锁，就有可能导致出现死锁现象。
 
-## 二.java.util.concurrent.locks包下常用的类
+## 二.java.top.justdj.util.concurrent.locks包下常用的类
 
-　　下面我们就来探讨一下java.util.concurrent.locks包中常用的类和接口。
+　　下面我们就来探讨一下java.top.justdj.util.concurrent.locks包中常用的类和接口。
 
 ### 　　**1.Lock**
 
