@@ -3,6 +3,12 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JVM/OutOfMemoryTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel/easyExcel/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel/easyExcel/untitled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel/easyexcela/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel/easyexcela/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guava/guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guava/guava/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -12,10 +13,13 @@
         <option value="$PROJECT_DIR$/JVM/cglibProxy/pom.xml" />
         <option value="$PROJECT_DIR$/Collection/weakhashmap/pom.xml" />
         <option value="$PROJECT_DIR$/other/transmittable-thread-local/pom.xml" />
+        <option value="$PROJECT_DIR$/guava/guava/pom.xml" />
+        <option value="$PROJECT_DIR$/excel/easyExcel/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/excel/easyexcel/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/target" />
   </component>
 </project>

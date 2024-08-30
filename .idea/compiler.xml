@@ -14,19 +14,14 @@
         <module name="transmittable-thread-local" />
         <module name="SpringBaseTest" />
         <module name="cglibProxy" />
+        <module name="guava" />
         <module name="weakhashmap" />
+        <module name="easyexcela" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="buildTree" target="6" />
-      <module name="cglibProxy" target="1.5" />
-      <module name="ClassHeadTest" target="1.5" />
-      <module name="jackson" target="1.5" />
       <module name="JavaTest" target="8" />
-      <module name="MybatisBaseTest" target="1.5" />
-      <module name="SpringBaseTest" target="1.5" />
-      <module name="transmittable-thread-local" target="8" />
-      <module name="weakhashmap" target="1.5" />
+      <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

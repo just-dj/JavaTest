@@ -7,6 +7,7 @@ public class WeakHashMapTest {
         map.put("key", "value");
         map.put("key", "value2");
 
+        map = null;
     }
 
 }
