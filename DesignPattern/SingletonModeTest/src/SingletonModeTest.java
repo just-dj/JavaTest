@@ -31,11 +31,15 @@ public class SingletonModeTest {
 		}
 		return singletonModeTest;
 	}
-	
+
 	public static SingletonModeTest getInstance2(){
 		return SingleModelTestFactory.singletonModeTest;
 	}
-	
+
+	private static class SingleModelTestFactory{
+		private static SingletonModeTest singletonModeTest = new SingletonModeTest();
+	}
+
 	public static void main(String[] args){
 		//通过同步方式实现
 		new MyThread().start();
@@ -45,11 +49,7 @@ public class SingletonModeTest {
 		new MyThread2().start();
 		new MyThread2().start();
 	}
-	
-	
-	private static class SingleModelTestFactory{
-		private static SingletonModeTest singletonModeTest = new SingletonModeTest();
-	}
+
 }
 
 class MyThread extends Thread{
