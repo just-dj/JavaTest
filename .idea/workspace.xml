@@ -77,30 +77,15 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="新增">
-      <change afterPath="$PROJECT_DIR$/Thread/BaseTest/DeadLockTest/src/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/BaseTest/VolatileTest/src/VolatileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/BlockQueueTest/src/BlockQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/NewIoTest/src/NewIOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureAwardExportDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureImportDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/ExcelParseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/ExcelRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/ParseBatchHandleListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/ParseColumnAndTotalListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guava/guava/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4929191e-fbb9-45f1-b03e-ddce16141034" name="Default" comment="提交">
+      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/生成冒险玩法奖励包_测试.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/生成冒险玩法奖励包_线上.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/生成冒险玩法章节配置.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/sort/Sort/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/sort/Sort/src/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/tree/buildTree/buildTree.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collection/weakhashmap/src/main/java/WeakHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/weakhashmap/src/main/java/WeakHashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/helper/DatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX/Java期末大作业/src/root/helper/DatabaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureAwardExportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureAwardExportDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureImportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/excel/AdventureImportDto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +193,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/justdj_1/Documents/code/my_github/JavaTest/excel/easyexcel/src/main/java/org/example",
+    "last_opened_file_path": "/Users/justdj_1/Library/Application Support/JetBrains/IntelliJIdea2023.2/scratches/刷题/简单",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -230,11 +215,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches/刷题/简单" />
       <recent name="$PROJECT_DIR$/excel/easyexcel/src/main/java/org/example" />
       <recent name="$PROJECT_DIR$/Thread/ThreadPool" />
       <recent name="H:\my github\JavaTest" />
       <recent name="G:\JavaTest\Thread\UtilClassTest\CountDownLatchTest\document" />
-      <recent name="G:\JavaTest\Thread\UtilClassTest\TimerTest\document" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mybatis/MybatisBaseTest/src/main" />
@@ -244,11 +229,12 @@
       <recent name="G:\JavaTest\Thread\RunThread" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
       <recent name="org.example.excel" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.Main (1)">
+  <component name="RunManager" selected="Application.生成冒险玩法章节配置">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -264,21 +250,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeadLock" />
-      <module name="DeadLockTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="root.LoginWindow" />
-      <module name="Java期末大作业" />
+    <configuration name="生成冒险玩法章节配置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.生成冒险玩法章节配置" />
+      <module name="easyexcela" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="root.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,13 +264,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="ColorfulCircles" />
+    <configuration name="生成冒险玩法章节配置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.生成冒险玩法章节配置" />
+      <module name="easyexcela" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="生成冒险玩法奖励包_线上" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.生成冒险玩法奖励包_线上" />
+      <module name="easyexcela" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,37 +298,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="easyexcela" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="guava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/28 买钢笔和铅笔的方案数.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/14 交换和 .java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/15 最长回文子串 .java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -351,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.org.example.Main (1)" />
-      <item itemvalue="Application.org.example.Main" />
-      <item itemvalue="Application.LoginWindow" />
-      <item itemvalue="Application.DeadLock" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.生成冒险玩法奖励包_线上" />
+      <item itemvalue="Application.生成冒险玩法章节配置" />
+      <item itemvalue="Java Scratch.Main (2)" />
+      <item itemvalue="Java Scratch.Main (4)" />
+      <item itemvalue="Java Scratch.Main (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.Main (1)" />
-        <item itemvalue="Application.org.example.Main" />
-        <item itemvalue="Application.LoginWindow" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.生成冒险玩法章节配置" />
+        <item itemvalue="Application.生成冒险玩法奖励包_线上" />
+        <item itemvalue="Java Scratch.Main (5)" />
+        <item itemvalue="Java Scratch.Main (4)" />
+        <item itemvalue="Java Scratch.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +453,9 @@
       <workItem from="1618191439721" duration="667000" />
       <workItem from="1619688035935" duration="497000" />
       <workItem from="1724826696945" duration="8146000" />
-      <workItem from="1724998722280" duration="4894000" />
+      <workItem from="1724998722280" duration="7310000" />
+      <workItem from="1725010643738" duration="11790000" />
+      <workItem from="1725347028586" duration="74836000" />
     </task>
     <task id="LOCAL-00001" summary="重新组织项目结构">
       <created>1554012657964</created>
@@ -652,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1609296409173</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="提交">
+      <option name="closed" value="true" />
+      <created>1725006890883</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725006890883</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -706,7 +701,8 @@
     <MESSAGE value="封装一下组装树的相关代码 增加了树转为list的功能" />
     <MESSAGE value="日常提交" />
     <MESSAGE value="新增" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,9 +871,24 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/Main.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="56" />
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/15 最长回文子串 .java</url>
+          <line>45</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/15 最长回文子串 .java</url>
+          <line>19</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/刷题/简单/15 最长回文子串 .java</url>
+          <line>32</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/excel/easyexcela/src/main/java/org/example/生成冒险玩法奖励包_线上.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

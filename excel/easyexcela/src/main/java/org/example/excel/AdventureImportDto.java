@@ -2,6 +2,8 @@ package org.example.excel;
 
 import java.io.Serializable;
 
+import org.apache.commons.lang3.StringUtils;
+
 import com.alibaba.excel.annotation.ExcelProperty;
 
 import lombok.AllArgsConstructor;
@@ -29,7 +31,7 @@ public class AdventureImportDto extends ExcelRow implements Serializable {
     @ExcelProperty("通关奖励-宝箱")
     private String rewardBox;
 
-    @ExcelProperty("通关奖励-道兵抽奖券")
+    @ExcelProperty("奖励-宝箱升级石")
     private String rewardSoldierTicket;
 
     @ExcelProperty("通关奖励-通关次数")
@@ -43,5 +45,11 @@ public class AdventureImportDto extends ExcelRow implements Serializable {
 
     @ExcelProperty("章节奖励-法宝抽奖券")
     private String chapterRewardMagicTicket;
+
+    public boolean haveChapterReward() {
+        return StringUtils.isNotBlank(chapterRewardBox) && Long.parseLong(chapterRewardBox) > 0
+                || StringUtils.isNotBlank(chapterRewardSoldierTicket) && Long.parseLong(chapterRewardSoldierTicket) > 0
+                || StringUtils.isNotBlank(chapterRewardMagicTicket) && Long.parseLong(chapterRewardMagicTicket) > 0;
+    }
 
 }

@@ -3,6 +3,7 @@ package org.example.excel;
 import java.io.Serializable;
 
 import com.alibaba.excel.annotation.ExcelProperty;
+import com.alibaba.excel.annotation.write.style.ColumnWidth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -16,6 +17,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
+@ColumnWidth(25)
 public class AdventureAwardExportDto extends ExcelRow implements Serializable {
 
     private static final long serialVersionUID = 8287356393439935534L;
